@@ -21,7 +21,7 @@
 A full-stack chatbot app with OpenAI API, built with React + Node.js.  
 **Tech**: React, Vite, Express, GPT-4o
 
-🔹 [**Melody-to-Harmony Generator**]([https://github.com/yourrepo/melody2harmony](https://github.com/zzzzzhm/melody2harmony)  
+🔹 [**Melody-to-Harmony Generator**](https://github.com/zzzzzhm/melody2harmony)  
 An LSTM-based model that harmonizes symbolic music input.  
 **Tech**: PyTorch, Music21, REMI Tokenizer
 
