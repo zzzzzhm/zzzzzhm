@@ -18,16 +18,16 @@
 ### 💼 Featured Projects
 
 🔹 [**AI Chat Assistant**](https://github.com/yourrepo/chat-assistant)  
-A full-stack chatbot app with OpenAI API, built with React + Node.js.  
-**Tech**: React, Vite, Express, GPT-4o
+A full-stack chatbot app with OpenAI API, built with React + FastAPI.  
+**Tech**: React, FastAPI, HTML, CSS
 
 🔹 [**Melody-to-Harmony Generator**](https://github.com/zzzzzhm/melody2harmony)  
 An LSTM-based and Transformer model that harmonizes symbolic music input.  
 **Tech**: PyTorch, Music21, REMI Tokenizer
 
-🔹 [**Book Review Recommender**](https://github.com/yourrepo/book-recommender)  
-Collaborative filtering recommender using Jaccard similarity.  
-**Tech**: Python, Scikit-learn, Matplotlib
+🔹 [**FishSeg: Image Processing**](https://github.com/zzzzzhm/FishSeg)  
+Image processing skills are applied before a deep learning pipeline that segments fish images using a U-Net architecture.
+Tech: Python, PyTorch, OpenCV, U-Net, Image Preprocessing (Gamma Correction, CLAHE)
 
 ---
 
