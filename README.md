@@ -25,7 +25,8 @@ Image processing skills are applied before a deep learning pipeline that segment
 An LSTM-based and Transformer model that harmonizes symbolic music input.  
 **Tech**: PyTorch, Music21, REMI Tokenizer
 
-🔹 [**Message Board**](https://github.com/zzzzzhm/Message-Board)
+🔹 [**Message Board**](https://github.com/zzzzzhm/Message-Board) 
+
 A lightweight message board built with FastAPI backend and Vite + React frontend.
 **Tech**: FastAPI, Uvicorn, React, Vite
 
