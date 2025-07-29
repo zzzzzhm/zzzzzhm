@@ -19,7 +19,7 @@
 
 🔹 [**FishSeg: Image Processing**](https://github.com/zzzzzhm/FishSeg)  
 Image processing skills are applied before a deep learning pipeline that segments fish images using a U-Net architecture.
-Tech: Python, PyTorch, OpenCV, U-Net, Image Preprocessing (Gamma Correction, CLAHE)
+**Tech**: Python, PyTorch, OpenCV, U-Net, Image Preprocessing (Gamma Correction, CLAHE)
 
 🔹 [**Melody-to-Harmony Generator**](https://github.com/zzzzzhm/melody2harmony)  
 An LSTM-based and Transformer model that harmonizes symbolic music input.  
@@ -27,7 +27,7 @@ An LSTM-based and Transformer model that harmonizes symbolic music input.
 
 🔹 [**Message Board**](https://github.com/zzzzzhm/Message-Board)
 A lightweight message board built with FastAPI backend and Vite + React frontend.
-Tech: FastAPI, Uvicorn, React, Vite
+**Tech**: FastAPI, Uvicorn, React, Vite
 
 
 ---
