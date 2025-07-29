@@ -10,7 +10,7 @@
 ### 🧰 Tech Stack
 - 💻 Languages: Python, Java, JavaScript, TypeScript, C++
 - ⚙️ Frameworks: React, Node.js, FastAPI, PyTorch, Flask
-- 🌐 Web: HTML, CSS, Vite, FastAPI
+- 🌐 Web: HTML, CSS, Vite
 - 🔧 Tools: Git, VSCode, Docker,scikit-learn
 
 ---
