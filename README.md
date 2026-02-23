@@ -17,6 +17,14 @@
 
 ### 💼 Featured Projects
 
+🔹 [**Job Agent**](https://github.com/zzzzzhm/Job_agent)  
+An intelligent job screening pipeline that fetches LinkedIn job postings via Apify and evaluates them using DeepSeek LLM. Automatically filters positions based on visa sponsorship, technology stack match, and role seniority.  
+**Tech**: Python, Apify API, DeepSeek LLM, Pydantic, SMTP (Email Notifications)
+
+🔹 [**Tarot Deck LoRA**](https://github.com/zzzzzhm/tarot-deck-lora)  
+Fine-tuned Stable Diffusion model using LoRA (Low-Rank Adaptation) to generate custom tarot card artwork with a specific artistic style.  
+**Tech**: Python, Stable Diffusion, LoRA, PyTorch, Hugging Face Diffusers
+
 🔹 [**FishSeg: Image Processing**](https://github.com/zzzzzhm/FishSeg)  
 Image processing skills are applied before a deep learning pipeline that segments fish images using a U-Net architecture.  
 **Tech**: Python, PyTorch, OpenCV, U-Net, Image Preprocessing (Gamma Correction, CLAHE)
